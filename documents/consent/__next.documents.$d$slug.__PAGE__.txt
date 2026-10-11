@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/2gv_n9-wf4hy5.js","/_next/static/chunks/1qgmmnz8znc1x.js"],""]
+3:I[97367,["/_next/static/chunks/2gv_n9-wf4hy5.js","/_next/static/chunks/1qgmmnz8znc1x.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/2gv_n9-wf4hy5.js","/_next/static/chunks/1qgmmnz8znc1x.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/2gv_n9-wf4hy5.js","/_next/static/chunks/1qgmmnz8znc1x.js"],"MetadataBoundary"]
+7:X
+21:X
+21:C
+0:{"buildId":"zNvEK_kB1MpfMwzbZ4yUw","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"legal","children":["$","div",null,{"className":"container legal__grid","children":[["$","aside",null,{"className":"legal__aside","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Хлебные крошки","children":[["$","ol",null,{"children":[["$","li","0",{"children":["$","$L2",null,{"href":"/","children":"Главная"}]}],["$","li","1",{"children":["$","$L2",null,{"href":"/documents","children":"Документы сайта"}]}],["$","li","2",{"children":["$","span",null,{"aria-current":"page","children":"Согласие на обработку данных"}]}]]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная\",\"item\":\"https://ug-plm-demo.vercel.app/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Документы сайта\",\"item\":\"https://ug-plm-demo.vercel.app/documents\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Согласие на обработку данных\"}]}"}}]]}],["$","nav",null,{"aria-label":"Содержание документа","className":"legal__toc","children":[["$","p",null,{"className":"label","children":"Содержание"}],["$","ol",null,{"children":[["$","li","Текст согласия",{"children":["$","a",null,{"href":"#s-1","children":"Текст согласия"}]}]]}]]}],["$","div",null,{"className":"legal__others","children":[["$","p",null,{"className":"label","children":"Другие документы"}],["$","ul",null,{"children":[["$","li","privacy",{"children":["$","$L2",null,{"href":"/documents/privacy","children":"Политика обработки данных"}]}]]}]]}]]}],["$","div",null,{"className":"legal__body","children":[["$","p",null,{"className":"eyebrow label","children":[["$","span",null,{"className":"eyebrow__mark","aria-hidden":"true"}],"Служебный документ"]}],["$","h1",null,{"className":"legal__title","children":"Согласие на обработку персональных данных"}],["$","div",null,{"className":"legal__warning","role":"note","children":[["$","strong",null,{"children":"Проект документа."}]," Текст не утверждён компанией и будет заменён согласованной редакцией. По вопросам обработки данных пишите на ",["$","a",null,{"href":"mailto:info@ug-plm.ru","children":"info@ug-plm.ru"}],"."]}],[["$","section","Текст согласия",{"id":"s-1","className":"legal__section","children":[["$","h2",null,{"children":"Текст согласия"}],[["$","p","Отправляя форму на сайте, я даю согласие",{"children":"Отправляя форму на сайте, я даю согласие ООО «ЮГ-ПЛМ» (ИНН 6166134306, ОГРН 1266100006260), адрес: 344029, г. Ростов-на-Дону, ул. Металлургическая, д. 102/2, помещение 1, офис 323 на обработку моих персональных данных: имени, номера телефона или адреса электронной почты, названия организации и сведений, указанных в описании задачи."}],["$","p","Цель обработки — ответ на моё обращение ",{"children":"Цель обработки — ответ на моё обращение и обсуждение моей задачи. Перечень действий: сбор, запись, систематизация, хранение, уточнение, использование, удаление и уничтожение."}],["$","p","Согласие действует до достижения цели об",{"children":"Согласие действует до достижения цели обработки или до его отзыва. Я могу отозвать согласие, направив письмо на info@ug-plm.ru."}],["$","p","С Политикой обработки персональных данны",{"children":"С Политикой обработки персональных данных ознакомлен(а)."}]]]}]]]}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#17191c"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Согласие на обработку персональных данных — ЮГ-ПЛМ"}],["$","meta","1",{"name":"description","content":"Текст согласия, которое посетитель даёт при отправке формы обращения."}],["$","meta","2",{"name":"application-name","content":"ЮГ-ПЛМ"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]}]}],"$L1d"]}],"isPartial":"$@1e","staleTime":"$7","varyParams":null},{"rsc":"$L1f","isPartial":"$@20","staleTime":"$7","varyParams":"$21"},{"rsc":"$L22","isPartial":"$@23","staleTime":"$7","varyParams":"$21"}],"isUpgradeableISRFallback":false,"a":"$@24","rootVaryParams":null,"needsRuntimeRequest":"$@25"}
+26:I[27201,["/_next/static/chunks/2gv_n9-wf4hy5.js","/_next/static/chunks/1qgmmnz8znc1x.js"],"IconMark"]
+27:I[39756,["/_next/static/chunks/2gv_n9-wf4hy5.js","/_next/static/chunks/1qgmmnz8znc1x.js"],"default"]
+28:I[37457,["/_next/static/chunks/2gv_n9-wf4hy5.js","/_next/static/chunks/1qgmmnz8znc1x.js"],"default"]
+5:null
+a:["$","link","4",{"rel":"canonical","href":"https://ug-plm-demo.vercel.app/documents/consent"}]
+b:["$","meta","5",{"name":"format-detection","content":"telephone=no, address=no, email=no"}]
+c:["$","meta","6",{"property":"og:title","content":"Согласие на обработку персональных данных"}]
+d:["$","meta","7",{"property":"og:description","content":"Текст согласия, которое посетитель даёт при отправке формы обращения."}]
+e:["$","meta","8",{"property":"og:url","content":"https://ug-plm-demo.vercel.app/documents/consent"}]
+f:["$","meta","9",{"property":"og:site_name","content":"ЮГ-ПЛМ"}]
+10:["$","meta","10",{"property":"og:locale","content":"ru_RU"}]
+11:["$","meta","11",{"property":"og:image","content":"https://ug-plm-demo.vercel.app/og.png"}]
+12:["$","meta","12",{"property":"og:image:width","content":"1200"}]
+13:["$","meta","13",{"property":"og:image:height","content":"630"}]
+14:["$","meta","14",{"property":"og:image:alt","content":"ЮГ-ПЛМ — ПО СПРУТ для производства"}]
+15:["$","meta","15",{"property":"og:type","content":"website"}]
+16:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+17:["$","meta","17",{"name":"twitter:title","content":"Согласие на обработку персональных данных"}]
+18:["$","meta","18",{"name":"twitter:description","content":"Текст согласия, которое посетитель даёт при отправке формы обращения."}]
+19:["$","meta","19",{"name":"twitter:image","content":"https://ug-plm-demo.vercel.app/og.png"}]
+1a:["$","link","20",{"rel":"icon","href":"/icon.png?icon.28p7mq7m9fye6.png","sizes":"512x512","type":"image/png"}]
+1b:["$","link","21",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.31r0ijya4yhyi.png","sizes":"180x180","type":"image/png"}]
+1c:["$","$L26","22",{}]
+1d:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1f:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+22:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+25:true
+7:300
+7:C
+24:0
+1e:"$undefined"
+20:"$undefined"
+23:"$undefined"
+6:"$undefined"
